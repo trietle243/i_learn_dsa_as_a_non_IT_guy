@@ -1,5 +1,7 @@
 # DSA Playground
 
+My story is simple as it sounds: I want to learn, that's all =))). Being a vibe-coder too bad aint help myself understand what am I writing (or what are they writing), so why not learn something at least to train logic and problem solving ?
+
 Learning Data Structures & Algorithms
 with Python and Go.
 
